@@ -1,6 +1,6 @@
 # Saran Jika Ingin Menggunakan
 
-untuk folder htdocs disimpan ke folder xampp/htdocs
+untuk folder merapi-app disimpan ke folder xampp/htdocs
 
 
 
